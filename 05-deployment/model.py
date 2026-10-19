@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Week 5
-
-# In[1]:
+# Model Deployment
 
 
 import numpy as np
